@@ -4,7 +4,7 @@
 Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on PHP,Javascript,Go,Python
-- 💬 Ask me about modern React.js, Node.js, PHP, Go, Python, C++, Laravel and API development(RESTAPI, Graphql).
+- 💬 Ask me about React.js, Node.js, PHP, Go, Python, C++, Laravel and API development(RESTAPI, Graphql).
 - 📫 How to reach me: jubaer01.cse@gmail.com
 
 
