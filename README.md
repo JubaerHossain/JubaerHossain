@@ -13,9 +13,9 @@
 
 Here are some ideas to knowing me:
 
-- 🔭 I’m currently working on PHP,Javascript,Go,Python
+- 🔭 I’m currently working on C++, PHP,Javascript,Go,Python
 - 💬 Ask me about React.js, Node.js, PHP, Go, Python, C++, Laravel and API development(RESTAPI, Graphql).
-- 📫 How to reach me: jubaer01.cse@gmail.com
+- 📫 Reach me: jubaer01.cse@gmail.com
 
 
 
