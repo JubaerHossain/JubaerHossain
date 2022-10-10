@@ -14,7 +14,7 @@
 Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on C++, PHP,Javascript,Go,Python
-- 💬 Ask me about React.js, Node.js, PHP, Go, Python, C++, Laravel and API development(RESTAPI, Graphql).
+- 💬 Ask me about DSA, C++, React.js, Node.js, PHP, Go, Python, Laravel and API development(RESTAPI, Graphql).
 - 📫 Reach me: jubaer01.cse@gmail.com
 
 
@@ -53,8 +53,8 @@ Here are some ideas to knowing me:
 
 
 ### Numbers
-![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=darcula&hide_border=true)
+![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dark&hide_border=true)
 
-![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=dark&show_icons=true&hide_border=true&layout=compact)
