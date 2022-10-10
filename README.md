@@ -53,8 +53,8 @@ Here are some ideas to knowing me:
 
 
 ### Numbers
-![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dark&hide_border=true)
+![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
 
-![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&layout=compact)
