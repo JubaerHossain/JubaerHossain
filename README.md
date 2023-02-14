@@ -13,8 +13,8 @@
 
 Here are some ideas to knowing me:
 
-- 🔭 I’m currently working on C++, PHP,Javascript,Go,Python
-- 💬 Ask me about DSA, C++, React.js, Node.js, PHP, Go, Python, Laravel and API development(RESTAPI, Graphql).
+- 🔭 I’m currently working on C++, PHP,Javascript,Python
+- 💬 Ask me about DSA, C++, React.js, Node.js, PHP, Python, Laravel and API development(RESTAPI, Graphql).
 - 📫 Reach me: jubaer01.cse@gmail.com
 
 
@@ -26,7 +26,6 @@ Here are some ideas to knowing me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest-007ACC?style=flat-square&logo=nest&logoColor=white)
-![Go](https://img.shields.io/badge/Go-007ACC?style=flat-square&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-007ACC?style=flat-square&logo=gin&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-007ACC?style=flat-square&logo=redux&logoColor=purple)
 ![Graphql](https://img.shields.io/badge/Graphql-007ACC?style=flat-square&logo=graphql&logoColor=red)
