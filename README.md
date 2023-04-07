@@ -23,7 +23,7 @@ Here are some ideas to knowing me:
 ### MyStack
 
 ![C++](https://img.shields.io/badge/C++-048?style=flat-square&logo=c++&logoColor=white)
-![Go](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=go&logoColor=black)
+![Go](https://img.shields.io/badge/Go-F7DF1E?style=flat-square&logo=go&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest-007ACC?style=flat-square&logo=nest&logoColor=white)
@@ -55,6 +55,6 @@ Here are some ideas to knowing me:
 ### Numbers
 ![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=false)
+![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
 
 ![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&layout=compact)
