@@ -22,10 +22,6 @@ Here are some ideas to knowing me:
 
 ### MyStack
 
-<p align="center">
- Backend : 
- </p>
-
 ![C++](https://img.shields.io/badge/C++-048?style=flat-square&logo=c++&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-50b7e0?style=flat-square&logo=go&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
