@@ -1,12 +1,7 @@
 <p>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
- 
-</P>
 
-<p>
- <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
- </p>
  
 <h2>  Hi there! 👋 I'm Md Jubaer Hossain. </h2>
 
@@ -49,7 +44,7 @@ Here are some ideas to knowing me:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 
-### Numbers
-![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&count_private=true)![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
+### Stat's
+![JubaerHossain's Stats](https://github-readme-stats.vercel.app/api?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
 
 ![JubaerHossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&theme=dracula&show_icons=true&hide_border=true&layout=compact)
