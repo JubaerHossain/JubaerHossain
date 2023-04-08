@@ -52,7 +52,7 @@ Here are some ideas to knowing me:
   ![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
 </div>
 
-📫 Reach me:
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jubaer-hossain-cse" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href="mailto:jubaer01.cse@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
