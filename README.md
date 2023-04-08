@@ -47,8 +47,8 @@ Here are some ideas to knowing me:
 ### Stat's
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JubaerHossain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JubaerHossain&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JubaerHossain&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
 
   ![JubaerHossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JubaerHossain&theme=dracula&hide_border=true)
 </div>
