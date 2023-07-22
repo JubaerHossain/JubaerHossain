@@ -1,8 +1,4 @@
-<p>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer+;JavaScript+%7C+React+%2B+Redux%7CNext+js;Nodejs+%7C+Express+%7C+MongoDB)](https://git.io/typing-svg)
-
- 
+<p> 
 <h2>  Hi there! 👋 I'm Md Jubaer Hossain. </h2>
 
 
